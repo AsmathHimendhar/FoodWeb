@@ -1,0 +1,80 @@
+body{
+  background-image: url("home bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.topnav {
+  overflow: hidden;
+
+}
+
+.topnav-left { 
+   margin-left: 30px;
+    margin-top: 9px;
+    float: left;
+}
+.topnav p {
+  float: left;
+  background-color: red;
+    margin: 0;
+    color: white;
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: none;
+    font-size: 38px;
+
+
+}
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 33px;
+    text-decoration: none;
+    font-size: 25px;
+
+}
+ 
+.topnav a:hover {
+ border-bottom: 4px solid red;
+}
+.text{
+  margin-top: 135px;
+}
+.quto{
+  color: white;
+  font-size: 36px;
+  
+  margin: 90px 16px 0px 175px;
+  width: 310px;
+  padding: 3px 10px;
+  text-align: center;
+   background-color: red;
+}
+.we{
+ color: white;
+  font-size: 20px;
+  
+  margin: 5px 16px 40px 175px;
+  width: 310px;
+  padding: 5px 14px 5px 14px;
+  text-align: center;
+}
+.we p{
+  margin-bottom: 35px;
+}
+.lets {
+  background-color: red;
+  border-radius:15px;
+  
+     color: white;
+    text-align: center;
+    padding: 14px 33px;
+    text-decoration: none;
+    font-size: 25px;
+  
+}
+
+.we a:hover {
+background-color: #0e8906;
+ }
